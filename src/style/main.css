@@ -1,0 +1,69 @@
+.step-2__content {
+  display: flex;
+  width: 800px;
+  height: auto;
+  border: 1px solid black;
+  padding: 20px;
+}
+
+.step-2__left {
+  width: 50%;
+}
+
+.step-2__right {
+  width: 50%;
+  text-align: center;
+}
+
+.step-2__welcome span {
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+
+.step-2__email {
+  display: flex;
+  text-align: center;
+}
+
+.mt-10 {
+  margin-top: 10px;
+}
+
+.mt-20 {
+  margin-top: 20px;
+}
+
+.mt-30 {
+  margin-top: 30px;
+}
+
+.mt-40 {
+  margin-top: 40px;
+}
+
+.mf {
+  margin-left: 15px;
+}
+
+.step-2__recovery-email,
+.step-2__phone-number {
+  width: 100%;
+}
+
+.input{
+    width: 100%;
+}
+
+.step-2__birthday{
+    display: flex;
+    justify-content: space-between;
+}
+
+.decs{
+    margin-left: 10px;
+}
+
+.step-2__d-flex{
+  display: flex;
+  justify-content: space-between;
+}
